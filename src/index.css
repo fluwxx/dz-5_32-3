@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://bogatyr.club/uploads/posts/2023-03/thumbs/1679668903_bogatyr-club-p-stilnii-fon-dlya-prezentatsii-minimalizm-p-4.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+#root{
+  display: flex;
+  justify-content: center;
+
+
 }
